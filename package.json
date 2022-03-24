@@ -1,5 +1,5 @@
 {
-  "name": "captain-hook",
+  "name": "react-carrier",
   "version": "0.1.0",
   "description": "React hooks library",
   "main": "dist/index.js",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mthnglac/captain-hook"
+    "url": "git@github.com:mthnglac/react-carrier.git"
   },
   "keywords": [],
   "author": "Metehan Gulac",
