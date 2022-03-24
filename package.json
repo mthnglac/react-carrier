@@ -1,0 +1,19 @@
+{
+  "name": "captain-hook",
+  "version": "0.1.0",
+  "description": "React hooks library",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": ["dist"],
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mthnglac/captain-hook"
+  },
+  "keywords": [],
+  "author": "Metehan Gulac",
+  "license": "MIT"
+}
